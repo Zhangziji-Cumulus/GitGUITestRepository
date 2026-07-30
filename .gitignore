@@ -2,3 +2,5 @@
 .vscode/
 .idea/
 *.swp
+*.suo
+*.user
