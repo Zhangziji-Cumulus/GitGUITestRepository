@@ -9,4 +9,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # 自定义规则
+<<<<<<< HEAD
+.got
+.log
+=======
 *.er
+>>>>>>> 345f45d1124ed9e8964748d365be13582585aca3
